@@ -1,6 +1,12 @@
-let name = 'Owais';
-let major = 'Computer Engineering';
+// Array in JS
 
-let template = `My name is ${name} and my major is ${major}`;
+let dreams = 'dfasfsdfa';
 
-console.log(template);
+let result = dreams.replace('f', 'q');
+
+
+
+let names = ['Owais', 'Saad', 'Sikandar', 'Hamza'];
+
+let check = names.includes('Hamza');
+console.log(check);
