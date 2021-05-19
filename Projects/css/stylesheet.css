@@ -1,0 +1,64 @@
+li{
+    /* display: inline-block; */
+    margin: 0 auto;
+    width: 800px;
+    display: inline;
+    
+    
+}
+
+nav{
+    text-align: center;
+    
+    
+}
+body{
+    background-image: url(/Projects/img/884373.png);
+    margin: 0px;
+    padding: 0px;
+    position: cover;
+   
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    margin-top: 5px;
+
+   
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+header{
+    /* background-color: black; */
+    margin: 5px 5px;
+    padding: 5px 5px;
+   
+    
+}
+nav h3{
+    color: white;
+    border-radius:10px;
+    border-color: white;
+    border-style: solid;
+    display: inline;
+    padding: 5px;
+    margin-bottom: 60px;
+    /* margin-bottom: 10px; */
+
+}
+
+main{
+    text-align: center;
+    color: white;
+    max-width: 600px;
+    /* position: relative;
+    left: 250px;
+     */
+    display: inline;
+}
+
+
